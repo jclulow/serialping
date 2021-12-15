@@ -1,0 +1,10 @@
+[package]
+name = "serialping"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+anyhow = "1.0.44"
+libc = "0.2.104"
+rand = "0.8.4"
+termios = "0.3.3"
